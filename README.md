@@ -20,8 +20,10 @@ is more than 45 minutes long. This is due to moviepy library not syncing the aud
 
 
 ### Noisy Audio Plot:
+![alt text](https://github.com/WaqarAnwar/Audio_Denoiser_from_Video-Python_AI/blob/main/noisy_audio_plot.PNG?raw=true)
 
 ### Denoised Audio Plot:
+![alt text](https://github.com/WaqarAnwar/Audio_Denoiser_from_Video-Python_AI/blob/main/denoised_audio_plot.PNG?raw=true)
 
 ## Usage
 
