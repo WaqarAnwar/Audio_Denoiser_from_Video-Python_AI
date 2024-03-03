@@ -5,11 +5,10 @@ Furthermore it uses moviepy library to merge audio and video.
 
 ### Pros:
 
-Normally it takes 4 to 5 hours to remove noise from a video as first you have to split audio and video, 
+Normally it takes alot of time to remove noise from a video as first you have to split audio and video, 
 then remove noise from the audio then merge audio and video back. All of it has to be done manually. 
-But this method is faster and it lowers the time from 4-8 hours to 1-2 hours per video
-(for a video that is around 2 hours long). And it does all of it in one go. Just input a video and it will output a denoised video.
-The time to generate the video is much shorter as compared to some conventional video editors these days. Plus it uses AI technology to denoise 
+But this method is faster because it does all of the above mentioned steps in one go. Just input a video and it will output a denoised video.
+The process of video generation is much faster as compared to some conventional video editors these days. Plus it uses AI technology to denoise 
 and produce an enhanced speech video.
 
 ### Cons: 
