@@ -1,4 +1,4 @@
-# Audio_Denoiser_from_Video-Python_AI
+# Audio Denoiser from Video using Python and AI
 
 Hello! This is a basic noise removing script that uses Python and AI technology DeepFilterNet to remove audio noise from a video. 
 Furthermore it uses moviepy library to merge audio and video.
